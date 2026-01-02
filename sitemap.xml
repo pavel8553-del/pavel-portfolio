@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>index.html</loc></url>
-  <url><loc>projects.html</loc></url>
-  <url><loc>about.html</loc></url>
-  <url><loc>contact.html</loc></url>
+  <url><loc>https://pavel8553-del.github.io/pavel-portfolio/</loc></url>
+  <url><loc>https://pavel8553-del.github.io/pavel-portfolio/about.html</loc></url>
+  <url><loc>https://pavel8553-del.github.io/pavel-portfolio/projects.html</loc></url>
+  <url><loc>https://pavel8553-del.github.io/pavel-portfolio/contact.html</loc></url>
+  <url><loc>https://pavel8553-del.github.io/pavel-portfolio/projects/furniture-landingpage/</loc></url>
+  <url><loc>https://pavel8553-del.github.io/pavel-portfolio/projects/photographer/</loc></url>
+  <url><loc>https://pavel8553-del.github.io/pavel-portfolio/projects/pizza-form/forms.html</loc></url>
 </urlset>
